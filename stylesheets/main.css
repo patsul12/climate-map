@@ -1,0 +1,10 @@
+/* line 1, ../sass/main.scss */
+.state {
+  fill: none;
+  stroke: #a9a9a9;
+  stroke-width: 1;
+}
+/* line 5, ../sass/main.scss */
+.state .state:hover {
+  fill-opacity: 0.5;
+}
